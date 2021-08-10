@@ -1,4 +1,4 @@
-# Priority Scheduling Algorrithms
+# Proccess Scheduling Algorrithms
 
 ### We have come across the theorytical concept of proccess scheduling algorithms. This repo is the **C** version of it. It gives an output of *Average Wait Time* and *Average Turn Around Time*.
 
